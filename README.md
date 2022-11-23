@@ -1,7 +1,7 @@
 # Projeto de site com botões | Website design with buttons
 
 ☠️ Projeto da faculdade onde foi pedido para construir 
-um CRUD com banco de dados em PHP e MySQL utilizando 
+um CRUD com banco de dados em PHP e SQL utilizando 
 o XAMPP.
 
 ☠️ College project where was requested to build a CRUD 
