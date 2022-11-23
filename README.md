@@ -5,7 +5,7 @@ um CRUD com banco de dados em PHP e SQL utilizando
 o XAMPP.
 
 ☠️ College project where was requested to build a CRUD 
-with database in PHP and MySQL using XAMPP.
+with database in PHP and SQL using XAMPP.
 ## Aprendizados | Learnings
 
 ☠️ Aprendi a fazer CRUD, usar banco de dados com o
