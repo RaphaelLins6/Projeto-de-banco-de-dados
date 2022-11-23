@@ -1,4 +1,4 @@
-# Projeto de site com botões | Website design with buttons
+# CRUD
 
 ☠️ Projeto da faculdade onde foi pedido para construir 
 um CRUD com banco de dados em PHP e SQL utilizando 
